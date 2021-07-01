@@ -1,5 +1,5 @@
 body {
-  margin-left: 153px;
+  margin-left: 154px;
   margin-right: 153px;
 }
 
@@ -10,6 +10,7 @@ header {
 
 div {
   text-align: center;
+  background-color: #cccccc;
 }
 
 h2 {
